@@ -1,4 +1,3 @@
-# student-result-analysis-project
 # Student Result Analysis and Performance Visualization System
 
 ## Project Overview
