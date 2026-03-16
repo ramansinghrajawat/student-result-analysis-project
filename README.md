@@ -37,5 +37,4 @@
 ## How to Run
 1. Clone or download the repository  
 2. Install required libraries:
-   pip install pandas 
-   pip install matplotlib
+   pip install pandas & matplotlib
